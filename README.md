@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Bhaskar</h1>
+<a align="center" href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Aspiring+Full+Stack+Developer;%20Enthusiastic%20and%20Motivated;I%20Always%20enjoy%20coding%20;I%20Always%20enjoy%20learning%20new%20things;&center=true&width=800&height=60"></a>
 <h3 align="center">Passionate full stack developer with 1200+ hours of hand-on-coding ,Dsa & problem solving. experience in developing scalable website using html, CSS, JavaScript etc. develop 10+ website from scratch.</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development, React**
