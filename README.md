@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Bhaskar</h1>
+<img width="100%" src="https://img.wattpad.com/6a241bd5e9834b57b3055f47b500b71bc9e07052/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6c495f5f7379746f2d53686355413d3d2d3934383835313239392e313633323130313932626662616634613539343836393238373533322e676966?s=fit&w=1024&h=720"></img>
+
+
+
+
+
 <a align="center" href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Aspiring+Full+Stack+Developer;%20Enthusiastic%20and%20Motivated;I%20Always%20enjoy%20coding%20;I%20Always%20enjoy%20learning%20new%20things;&center=true&width=800&height=60"></a>
 <h3 align="center">Passionate full stack developer with 1200+ hours of hand-on-coding ,Dsa & problem solving. experience in developing scalable website using html, CSS, JavaScript etc. develop 10+ website from scratch.</h3>
 
